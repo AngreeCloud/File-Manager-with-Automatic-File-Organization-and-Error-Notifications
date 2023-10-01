@@ -30,7 +30,7 @@ file_manager_template.py
 
   ```bash
   pip install watchdog
-...
+  ```
 + watchdog: Python library for file system monitoring
 + smtplib: Python library for sending emails
 
