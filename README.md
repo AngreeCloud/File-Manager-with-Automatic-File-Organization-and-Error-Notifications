@@ -26,6 +26,11 @@ file_manager_template.py
 
 ## Dependencies
 + Python 3.x
++ Required Python packages can be installed using pip:
+
+  ```bash
+  pip install watchdog
+...
 + watchdog: Python library for file system monitoring
 + smtplib: Python library for sending emails
 
